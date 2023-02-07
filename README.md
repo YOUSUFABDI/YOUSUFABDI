@@ -1,6 +1,5 @@
 ### HI I'M YOUSUF👋
-
-Frontend developer learning backend development
+A Junior software engineer hoping to be senior software engineer 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Nodejs
