@@ -1,4 +1,4 @@
-### Hi I'M YOUSUF👋
+### HI I'M YOUSUF👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Nodejs
