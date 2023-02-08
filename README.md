@@ -1,5 +1,5 @@
 ### HI I'M YOUSUF👋
-A Junior software engineer hoping to be senior software engineer 
+Frontend developer learning backend development
 
 - 👀 I’m interested in programming
 - 🔭 I’m currently working on My graduation project and thesis book 
