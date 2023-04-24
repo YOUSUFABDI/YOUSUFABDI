@@ -1,4 +1,4 @@
-### HI I'M YOUSUF ABDI👋
+### HI I'M YOUSUF🚀
 
 - 👀 I’m interested in programming
 - 🔭 I’m currently working on My graduation project and thesis book 
