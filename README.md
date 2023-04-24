@@ -1,5 +1,4 @@
-### HI I'M YOUSUF👋
-Frontend developer learning backend development
+### HI I'M YOUSUF ABDI👋
 
 - 👀 I’m interested in programming
 - 🔭 I’m currently working on My graduation project and thesis book 
