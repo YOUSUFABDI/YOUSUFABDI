@@ -4,6 +4,6 @@
 
 Feel free to checkout my [portfolio](https://www.yusufdev.com/) website!
 - 🏢 Software Engineer (Full Stack) in Somali Mogadishu
-- 🧰 I build with: `JavaScript`, `TypeScript`, `Reactjs`, `React Native`, `Nextjs`, `Nodejs`, `Express` `PHP`, `Tailwind` ...
+- 🧰 I build with: `JavaScript`, `TypeScript`, `Reactjs`, `React Native`, `Nodejs`, `Express`, `Tailwind` ...
 - ⚡ I enjoy reading, lifting weights, and playing games:)
 - 📫 Reach out to me: yousufabdi34@gmail.com
