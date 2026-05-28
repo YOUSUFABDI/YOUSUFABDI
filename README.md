@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6" />](https://instagram.com/yusuf_cabd) 
 
 Feel free to checkout my [site!](https://yusuf-s-site.vercel.app/) 
-- 🏢 Software Engineer | Building • Shipping • Scaling
+- 🏢 Software Engineer | Build • Ship • Scale
 - 🧰 I build with: `JavaScript`, `TypeScript`, `Reactjs`, `React Native`, `Nodejs`, `Express`, `Nestjs`, `Frappe Framework`, `Tailwind` ...
 - ⚡ I enjoy coding, reading, lifting weights :)
 - 📫 Reach out to me: yousufabdi34@gmail.com
